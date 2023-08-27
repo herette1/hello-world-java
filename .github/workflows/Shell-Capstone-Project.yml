@@ -6,7 +6,7 @@ on:
       - master  # Change this to your default branch
 
 jobs:
-  build-and-deploy:
+  build-and-deploy: 
     runs-on: ubuntu-latest
 
     steps:
